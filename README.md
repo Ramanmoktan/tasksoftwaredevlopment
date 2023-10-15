@@ -8,8 +8,8 @@ I **will** complete these lessons!
 
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
-# Header one
-## Header two
+# Header one #
+## Header two ##
 ### Header three
 #### Header four
 ##### Header five
