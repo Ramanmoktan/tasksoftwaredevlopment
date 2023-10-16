@@ -71,7 +71,7 @@ I read this interesting quote the other day:
 2. Slice the tomatoes
 3. Rub the tomatoes in flour
 
-### Plans, also in latin
+### Plants, also in latin
 * Azalea (_Ericaceae Rhododendron_)
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
 * Dahlia (_Coreopsideae Dahlia_)
